@@ -6,12 +6,12 @@ Para poder ejecutar el proyecto en tu computadora, primero necesitas instalar pn
 
 Para instalar las dependencias del proyecto, ejecuta el siguiente comando en tu terminal:
 
-pnpm install
+'pnpm install'
 
 Ejecución
 Para ejecutar el proyecto en modo desarrollo, ejecuta el siguiente comando en tu terminal:
 
-pnpm run dev
+'pnpm run dev'
 
 
 Este comando iniciará un servidor de desarrollo en http://localhost:3000, donde podrás ver el proyecto corriendo.
