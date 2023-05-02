@@ -1,0 +1,23 @@
+.navbar-brand img:hover {
+    animation: logo-glow 0.5s ease-in-out infinite alternate;
+  }
+  
+  @keyframes logo-glow {
+    from {
+      filter: drop-shadow(0 0 0 #800080);
+    }
+    to {
+      filter: drop-shadow(0 0 5px #800080);
+    }
+  }
+
+  .dark {
+    background-color: #363333;
+    color: white;
+  }
+  
+  .light {
+    background-color: #bfbaba;
+    color: black;
+  }
+  
